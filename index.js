@@ -1,4 +1,4 @@
-// JavaScript code for calculator logic
+// JavaScript code for simple scientific calculator logic
         // You can add your JavaScript code here
         // Calculator logic functions
         let display = document.getElementById('display');
